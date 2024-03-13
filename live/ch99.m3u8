@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710343097/ei/WW_xZcy8OKPCir4P7MmRSA/ip/172.183.132.18/id/n3r2_7jjcU0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/UWF9fz-rWFRm8R_ZIUXU9OvABL-qDYmL1OpHujHglYC9lpo/vprv/1/playlist_type/LIVE/initcwndbps/5985000/mh/Gc/mm/44/mn/sn-vgqsrnzr/ms/lva/mv/m/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350304/mt/1710321155/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRgIhANESOhnOBSX4Ete14qOrbMgHZWbEmv-iL_Sg7h05d8oDAiEAq4B0AEkTE7n8jLHG4XYrqTIsqWWc0FzvGRQxiLq07cc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRgIhAKLvIS7JQCCpetKuXzTea3cpgAb902OngF_zd7t381fOAiEA3Ixamabey0XaZamOwjqgQjLqmb65gXffmr7O643GNso%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/assets/moose_na.m3u8
